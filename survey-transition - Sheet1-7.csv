@@ -1,0 +1,60 @@
+Question 1 ,DeepDreamYOLO,DALL-EYOLO,DreamStudioYOLO
+Question 2,DeepDreamYOLO,DALL-EYOLO,DreamStudioYOLO
+Question 3 ,DeepDreamYOLO,DreamStudioYOLO,DALL-EYOLO
+Question 4,DALL-EYOLO,DreamStudioYOLO,DeepDreamYOLO
+Question 5,DreamStudioYOLO,DALL-EYOLO,DeepDreamYOLO
+Question 6,DreamStudioYOLO,DALL-EYOLO,DeepDreamYOLO
+Question 7,DreamStudio 15 Prompt,DALL-E /15 Prompt ,DeepDream 15 Prompt
+Question 8,DeepDream 15 Prompt,DreamStudio 15 Prompt,DALL-E /15 Prompt 
+Question 9,DreamStudio 15 Prompt,DALL-E /15 Prompt ,DeepDream 15 Prompt
+Question 10 ,DreamStudio 15 Prompt,DeepDream 15 Prompt,DALL-E /15 Prompt 
+Question 11,DALL-E /15 Prompt ,DreamStudio 15 Prompt,DeepDream 15 Prompt
+Question 12,DeepDream 15 Prompt,DALL-E /15 Prompt ,DreamStudio 15 Prompt
+Question 13,DeepDream/15ArtistName,DreamStudio15ArtistName,DALL-E15ArtistName
+Question 14,DeepDream/15ArtistName,DALL-E15ArtistName,DreamStudio15ArtistName
+Question 15,DreamStudio15ArtistName,DALL-E15ArtistName,DeepDream/15ArtistName
+Question 16,DeepDream/15ArtistName,DreamStudio15ArtistName,DALL-E15ArtistName
+Question 17,DALL-E15ArtistName,DreamStudio15ArtistName,DeepDream/15ArtistName
+Question 18,DeepDream/15ArtistName,DreamStudio15ArtistName,DALL-E15ArtistName
+Question 19,DALL-E /15 Prompt ,DALL-E /Prompt 50,DALL-E /YOLO
+Question 20,DALL-E /15 Prompt ,DALL-E /Prompt 50,DALL-E /YOLO
+Question 21,DALL-E /15 Prompt ,DALL-E /Prompt 50,DALL-E /YOLO
+Question 22,DALL-E /15 Prompt ,DALL-E /Prompt 50,DALL-E /YOLO
+Question 23,DALL-E /15 Prompt ,DALL-E /Prompt 50,DALL-E /YOLO
+Question 24,DALL-E /15 Prompt ,DALL-E /Prompt 50,DALL-E /YOLO
+Question 25,DeepDream 15 Prompt ,DeepDream 50 Prompt,DeepDream YOLO
+Question 26,DeepDream 15 Prompt ,DeepDream 50 Prompt,DeepDream YOLO
+Question 27,DeepDream 15 Prompt ,DeepDream 50 Prompt,DeepDream YOLO
+Question 28,DeepDream 15Prompt ,DeepDream 50 Prompt,DeepDream YOLO
+Question 29,DeepDream 15 Prompt ,DeepDream 50 Prompt,DeepDream YOLO
+Question 30,DeepDream 15 Prompt,DeepDream 50 Prompt,DeepDream YOLO
+Question 31,DreamStudio 15 Prompt,DreamStudio 50 Prompt,DreamStudio YOLO
+Question 32,DreamStudio 15 Prompt,DreamStudio 50 Prompt,DreamStudio YOLO
+Question 33,DreamStudio 15 Prompt,DreamStudio 50 Prompt,DreamStudio YOLO
+Question 34,DreamStudio 15 Prompt,DreamStudio 50Prompt,DreamStudio YOLO
+Question 35,DreamStudio 15 Prompt,DreamStudio 50 Prompt,DreamStudio YOLO
+Question 36 ,DreamStudio 15 Prompt,DreamStudio 50 Prompt,DreamStudio YOLO
+Question 37,DeepDream 50 Prompt,DeepDream Downscaled +50 Prompt,
+Question 38,DeepDream 50 Prompt,DeepDream Downscaled +50 Prompt,
+Question 39,DeepDream 50 Prompt,DeepDream Downscaled +50 Prompt,
+Question 40,DeepDream 50 Prompt,DeepDream Downscaled +50 Prompt,
+Question 41,DeepDream 50 Prompt,DeepDream Downscaled +50 Prompt,
+Question 42,DeepDream 50 Prompt,DeepDream Downscaled +50 Prompt,
+Question 43,DeepDream 50 Prompt,DeepDream Blurred+50 Prompt,
+Question 44,DeepDream 50 Prompt,DeepDream Blurred+50 Prompt,
+Question 45,DeepDream 50 Prompt,DeepDream Blurred+50 Prompt,
+Question 46,DeepDream 50 Prompt,DeepDream Blurred+50 Prompt,
+Question 47,DeepDream 50 Prompt,DeepDream Blurred+50 Prompt,
+Question 48,DeepDream 50 Prompt,DeepDream Blurred+50 Prompt,
+Question 49,DreamStudio  Downscaled 50 Prompt,DreamStudio 50 Prompt,
+Question 50,DreamStudio  Downscaled 50 Prompt,DreamStudio 50 Prompt,
+Question 51,DreamStudio  Downscaled 50 Prompt,DreamStudio 50 Prompt,
+Question 52,DreamStudio  Downscaled 50 Prompt,DreamStudio 50 Prompt,
+Question 53,DreamStudio  Downscaled 50 Prompt,DreamStudio 50 Prompt,
+Question 54,DreamStudio  Downscaled 50 Prompt,DreamStudio 50 Prompt,
+Question 55,DreamStudio  Blurred 50 Prompt,DreamStudio 50 Prompt,
+Question 56,DreamStudio 50 Prompt,DreamStudio  Blurred 50 Prompt,
+Question 57,DreamStudio  50 Prompt,DreamStudio  Blurred 50 Prompt,
+Question 58,DreamStudio  50 Prompt,DreamStudio  Blurred 50 Prompt,
+Question 59,DreamStudio  Blurred 50 Prompt,DreamStudio  50 Prompt,
+Question 60,DreamStudio  Blurred 50 Prompt,DreamStudio  50 Prompt,
